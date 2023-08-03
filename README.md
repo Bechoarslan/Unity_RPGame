@@ -1,4 +1,4 @@
-![ezgif com-video-to-gif-min](https://github.com/Bechoarslan/Unity_RPGame/assets/92801714/a5adb6af-ec17-4d0c-b1b9-7c8575a6e4db)# Unity_RPGame
+# Unity_RPGame
  RPG_Game from Udemy course.
 The instructor is GameDev.tv
 
